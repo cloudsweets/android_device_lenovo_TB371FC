@@ -140,6 +140,7 @@ TW_EXCLUDE_DEFAULT_USB_INIT := true
 TW_NO_EXFAT_FUSE := true
 TW_MAX_BRIGHTNESS := 400
 TW_HAS_EDL_MODE := true
+TW_MTP_DEVICE := /dev/usb-ffs/mtp
 
 # TWRP Debug Flags
 TARGET_USES_LOGD := true
